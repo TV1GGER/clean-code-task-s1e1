@@ -23,7 +23,8 @@ body {
 
 @media (max-width:768px) {
 
-.details { text-align: center;
+.details { 
+    text-align: center;
 }
 
 }
